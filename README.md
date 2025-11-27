@@ -1,6 +1,7 @@
 # 🌐 Personal Portfolio — med khalid
 
 [![HTML](https://img.shields.io/badge/HTML-5-orange)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS-3-blue)]()
 [![Status](https://img.shields.io/badge/Project-Active-success)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
